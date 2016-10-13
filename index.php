@@ -29,21 +29,24 @@
 			</section>
 			<!-- begin section 2 -->
 			<section>
-				<h2>Use Case</h2>
+				<h4>Use Case</h4>
 				<ul>
-					<li>Use Slack messages to manage in one site her communication with the groups of her interest.
+					<li>Gloria was introduce to Slack at her class in CNM since it is an effective was to maintain a timely
+						communication eveb when she is in class. She is planning to  Use Slack messages to manage in one site
+						her communication with the groups of her interest.
 					</li>
-					<li>Share documents to work with her sister, maintaining a fast and effective communication and
+					<li>She likes uses the message to also share documents to work with her sister, maintaining a fast and effective communication and
 						colaboration,even when she is at school.
-						And possibly later will create her own teams as when she needs help and create her own groups</li>
+						And possibly later will create her own teams</li>
 				</ul>
 			</section>
 			<!--begin section 3 -->
 			<section>
-				<h2>Entities</h2>
-				<p>Directory</p>
-				<p>Find or start a conversation field</p>
-				<p>Recent conversations</p>
+				<h4>Entities</h4>
+				<ul>
+					<li>User</li>
+					<li>message</li>
+				</ul>
 			</section>
 		</main>
 	</body>
