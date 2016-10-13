@@ -16,13 +16,14 @@
 				<ul>
 					<li>Name: Gloria Mendez </li>
 					<li>Age:27</li>
-					<li>Profession: Acconting Student</li>
-					<li>Changing carrer from Elementary school Math Teacher.</li>
-					<li>Hobbies: Blogging and Fotografy</li>
-					<li>Immediate plan: She just decided to go back to school to complete her Accounting studies.
-					In plans to start her own business at home in partnership with her sister.
-						She wants to do this as she is plannig on being able to set
-					her own work schedule to have more time for fotography and blogging </li>
+					<li>Profession: Photography Student</li>
+					<li>Changing carrer from Elementary school Art Teacher, since she finds that the system is
+						having too many failures, and frustrated with the fact that she does not have enough time to pursue her
+						passion for photography, and dreaming in combining it with her other passion for blogging .</li>
+					<li>Hobbies: Blogging and Photography</li>
+					<li>Immediate plan: She just decided to go back to school to complete her Photography studies.
+					In plans to start her own business at home in partnership with her sister. With this she will have the
+						flexibility to set up her own schedule to have more time for fotography and blogging </li>
 				<li>Goals: Establish her business to manage her time according to her passions</li>
 				</ul>
 			</section>
