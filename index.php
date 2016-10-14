@@ -29,8 +29,8 @@
 						<p>She wants to make the most out of the time in school to learn as much as possible from
 							the experience of the professors and her peers, as she wants to become an excellent
 							photographer. </p>
-						<p>Gloria wants to start her busimess in partnership with her sister since they work well
-							togetherand combining their talents on their company they will have more band
+						<p>Gloria wants to start her business in partnership with her sister since they work well
+							together and by combining their talents on the company they will give more
 							opportunities to succeed.
 							Gloria is contemplating the possibility to use the same app to cummunicate with her
 							sister and other collaborators for her business, by creating her own team in Slack.</p>
@@ -57,6 +57,7 @@
 				<li>messageId (primary key)</li>
 				<li>messageTime</li>
 				<li>messageContent</li>
+				<li>messagePosterId  foreign key</li>
 			</ul>
 			<h4>Relationships</h4>
 			<p>userId can send many messages 1-to-n </p>
