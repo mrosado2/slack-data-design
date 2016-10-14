@@ -53,7 +53,7 @@
 			</ul>
 			<h3>Relationships</h3>
 			<p>user can send many messages 1-to-n </p>
-			<p>user can receive many messages m-to-</p>
+			<p>user can receive many messages one-to-many</p>
 		</main>
 	</body>
 </html>
