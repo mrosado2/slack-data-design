@@ -22,21 +22,22 @@
 					<li><strong>Technology:</strong>Gloria will be using her Android phone and her Mac computer at home and
 						school.</li>
 				</ul>
-					<p>Gloria decided to go back to school to continue her Photography studies sinced she wants to change
-						careers from
-						High school Art Teacher, to professional photographer and start her own business, as she wants to be
-						able to work her own schedule to enjoy nature and to have the freedom to express her own
-						style in her work.</p>
-						<p>She wants to make the most out of the time in school to learn as much as possible from the
-							experience of the professors and her peers, as she wants to become an excellent photographer. </p>
-						<p>Gloria wants to start her busimess in partnership with her sister since they work well together
-							and combining their talents on their company they will have more band opportunities to succeed.
-							Gloria is contemplating the possibility to use the same app to cummunicate with her sister and
-							other collaborators for her business needs, by creating her own team in Slack.</p>
+					<p>Gloria decided to go back to school to continue her Photography studies sinced she wants to
+						change careers fromHigh school Art Teacher, to professional photographer and start her
+						own business, as she wants to be able to work her own schedule to enjoy nature and to have
+						the freedom to express her ownstyle in her work.</p>
+						<p>She wants to make the most out of the time in school to learn as much as possible from
+							the experience of the professors and her peers, as she wants to become an excellent
+							photographer. </p>
+						<p>Gloria wants to start her busimess in partnership with her sister since they work well
+							togetherand combining their talents on their company they will have more band opportunities
+							to succeed.
+							Gloria is contemplating the possibility to use the same app to cummunicate with her sister
+							and other collaborators for her business needs, by creating her own team in Slack.</p>
 				<h3>Use Case</h3>
-				<p><strong>Goal:</strong> Gloria wants to become very effective at her communication with Slack. She has
-					commited to use it as much as possible to maximaze her learning while in school and to ensure that the
-					use of this app will be convinient for her business.</p>
+				<p><strong>Goal:</strong> Gloria wants to become very effective at her communication with Slack.
+					She has commited herself to use it as much as possible to maximaze her learning while in school
+					and to ensure that theuse of this app will be convinient for her business.</p>
 			<ol>
 				<li>Gloria will download the app to her phone and computer</li>
 				<li>Gloria will register and will receive her userId</li>
