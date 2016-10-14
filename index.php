@@ -52,8 +52,10 @@
 				<li>messageContent</li>
 			</ul>
 			<h3>Relationships</h3>
-			<p>user can send many messages 1-to-n </p>
-			<p>user can receive many messages one-to-many</p>
+			<p>userId can send many messages 1-to-n </p>
+			<p>userId can receive many messages 1-to-n</p>
+			<p>one message can be send to many usersIds m-to-n</p>
+			<p>messageId can get only 1-to-1 messageTimeStamp</p>
 		</main>
 	</body>
 </html>
