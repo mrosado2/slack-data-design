@@ -30,14 +30,14 @@
 							the experience of the professors and her peers, as she wants to become an excellent
 							photographer. </p>
 						<p>Gloria wants to start her busimess in partnership with her sister since they work well
-							togetherand combining their talents on their company they will have more band opportunities
-							to succeed.
-							Gloria is contemplating the possibility to use the same app to cummunicate with her sister
-							and other collaborators for her business needs, by creating her own team in Slack.</p>
+							togetherand combining their talents on their company they will have more band
+							opportunities to succeed.
+							Gloria is contemplating the possibility to use the same app to cummunicate with her
+							sister and other collaborators for her business, by creating her own team in Slack.</p>
 				<h3>Use Case</h3>
 				<p><strong>Goal:</strong> Gloria wants to become very effective at her communication with Slack.
-					She has commited herself to use it as much as possible to maximaze her learning while in school
-					and to ensure that theuse of this app will be convinient for her business.</p>
+					She has commited herself to use it as much as possible to maximaze her learning while in
+					school and to ensure that theuse of this app will be convinient for her business.</p>
 			<ol>
 				<li>Gloria will download the app to her phone and computer</li>
 				<li>Gloria will register and will receive her userId</li>
