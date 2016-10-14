@@ -1,41 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
-		<!-- add CSS file -->
-		<title>Data Design Slack Direct Message</title>
+		<meta charset="UTF-8"/>
+		<title>Slack Message Data Design Project</title>
 	</head>
 	<body>
-		<!-- this is a header --><header>
+		<<header>
 			<h3>Data Design Slack Messaget</h3>
 		</header>
 		<main>
-			<!-- begin section 1 -->
 			<section>
-				<h4>Persona</h4>
+				<h4>User</h4>
+				<p>
+					Gloria will be using Slack direct messanger with her school peers for ongoing project colaboration.
+				</p>
 				<ul>
-					<li>Name: Gloria Mendez </li>
+					<li>Name: Gloria Mendez</li>
 					<li>Age:27</li>
+					<li>Hobbies: Photography and hiking</li>
 					<li>Profession: Photography Student</li>
-					<li>Changing carrer from Elementary school Art Teacher, since she finds that the system is
-						having too many failures, and frustrated with the fact that she does not have enough time to pursue her
-						passion for photography, and dreaming in combining it with her other passion for blogging .</li>
-					<li>Hobbies: Blogging and Photography</li>
-					<li>Immediate plan: She just decided to go back to school to complete her Photography studies.
-					In plans to start her own business at home in partnership with her sister. With this she will have the
-						flexibility to set up her own schedule to have more time for fotography and blogging </li>
-				<li>Goals: Establish her business to manage her time according to her passions</li>
+					<li>Back to school to continue her Art studies sinced she wants to change careers from Highschool Art Teacher.
+						Gloria wants to specialize in Photography, to start her own business and to be able to work her own schedule,
+						enjoy nature and to have the freedom to express her own style in her work. She will partner with
+						her sister to have someone reliable and supportive on her business. Gloria is planning to create her
+						team when she completed school and starts her business, to maintain consistency on her files and save
+						time since she only will need to check one app.
+						Gloria and her sister will use their Android phones and
+					their Mac computers at home and work.</li>
+					<li>Technology: Gloria will be using her Android phone and her Mac computer at home and work </li>
 				</ul>
-			</section>
-			<!-- begin section 2 -->
 			<section>
 				<h4>Use Case</h4>
+				<p><strong>Goal</strong> Gloria was introduce to Slack at her class in CNM since it had been very effective
+					to communicate and colaborate with her team. Later she wants to use it for her business.</p>
 				<ul>
-					<li>Gloria was introduce to Slack at her class in CNM since it is an effective was to maintain a timely
-						communication eveb when she is in class. She is planning to  Use Slack messages to manage in one site
-						her communication with the groups of her interest.
+					<li>Gloria will .
 					</li>
-					<li>She likes uses the message to also share documents to work with her sister, maintaining a fast and effective communication and
+					<li>She likes uses the message to also share documents to work with her sister, maintaining a fast and
+						effective communication and
 						colaboration,even when she is at school.
 						And possibly later will create her own teams</li>
 				</ul>
