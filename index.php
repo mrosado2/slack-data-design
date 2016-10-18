@@ -60,12 +60,18 @@
 				<li>messageSenderId  foreign key</li>
 				<li>messageReceiverId foreign key</li>
 			</ul>
+			<ul>
+				<li>receiverId</li>
+				<li>receiverNameId</li><li>receiverPictureId</li>
+			</ul>
+
 			<h4>Relationships</h4>
 			<p>userId can send many messages 1-to-n </p>
 			<p>userId can receive many messages 1-to-n</p>
 			<p>one message can be send to many usersIds m-to-n</p>
-			<p>messageId can get only 1-to-1 messageTimeStamp</p>
-			<p>message cab be sent to multiple receivers 1-to-n</p>
+			<p>messageId can get only 1-to-1 messageTimeStamp 1-to-1</p>
+			<p>message can be send to one receiverId</p>
+			<p>message cab be sent to multiple receiversId 1-to-n</p>
 		</main>
 	</body>
 </html>
