@@ -16,7 +16,7 @@
 				<ul>
 					<li><strong>Name:</strong> Gloria Mendez</li>
 					<li><strong>Age:</strong>27</li>
-					<li><strong>Hobbies:</strong> Photography and hiking</li>
+					<li><strong>Hobbies:</strong> Hiking</li>
 					<li><strong>Profession:</strong> Photography Student</li>
 					<li><strong>Technology:</strong>Gloria will be using her Android phone and her Mac computer at home and
 						school.</li>
