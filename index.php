@@ -23,19 +23,19 @@
 				</ul>
 					<p>Gloria decided to go back to school to continue her Photography studies sinced she wants to
 						change careers from High school Art Teacher, to professional photographer and start her
-						own business.
-						She wants to be her own boss and be able to work her own schedule, enjoy nature and to have
+						own business.</p>
+			<p>She wants to be her own boss and be able to work her own schedule, enjoy nature and to have
 						the freedom to express her ownstyle in her work.</p>
 						<p>She wants to make the most out of her time in school and learn from the experience and technique
 							of the professors and her peers, as she wants to become an excellent photographer. </p>
 						<p>Gloria wants to start her business in partnership with her sister since they work well
 							together and by combining their talents on the company they will have better opportunities
-							to succeed.
-							Gloria is contemplating the possibility also implement the use of Slack for her business
+							to succeed.</p>
+			         <p>Gloria is contemplating the possibility also implement the use of Slack for her business
 							to cummunicate with her sister and her employees by creating her own team in Slack.</p>
 				<h3>Use Case</h3>
-				<p><strong>Goal:</strong> Gloria wants to become very effective at her communication with Slack.
-					She has commited herself to use it as much as possible to maximaze her learning while in
+				<p><strong>Goal:</strong> Gloria wants to become very effective at her communication with Slack.</p>
+			   <p>She has commited herself to use it as much as possible to maximaze her learning while in
 					school and to ensure that the use of this app will be convinient for her business.</p>
 			<ol>
 				<li>Gloria will download the app to her phone and computer</li>
