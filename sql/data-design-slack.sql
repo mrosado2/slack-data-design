@@ -21,4 +21,4 @@ CREATE TABLE message (
 	FOREIGN KEY (messageSenderId) REFERENCES user(userId),
 	FOREIGN KEY (messageReceipientId) REFERENCES user (userId),
 	PRIMARY KEY (messageId)
-	);
+);
